@@ -1,4 +1,4 @@
-# 🫧 Video-Anomaly-AE – Learning Temporal Regularity via Reconstruction
+# 🫧 Video-Anomaly-AE-Replication – Learning Temporal Regularity via Reconstruction
 
 This repository provides a **clean, minimal, and paper-faithful replication** of a **Video Anomaly Detection Autoencoder** framework.  
 The goal is not benchmark dominance, but to **translate the core theoretical ideas of reconstruction-based anomaly detection into an inspectable PyTorch implementation**.
@@ -79,7 +79,7 @@ No explicit anomaly labels are required — the signal emerges from structure al
 ## 📦 Repository Structure
 
 ```bash
-Video-Anomaly-AE/
+Video-Anomaly-AE-Replication/
 ├── src/
 │   ├── layers/
 │   │   ├── conv_block.py          # Conv2D + activation (+ optional pooling)
